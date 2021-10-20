@@ -1,0 +1,38 @@
+body {
+	background: url(https://images.unsplash.com/photo-1598237601465-af66b7475e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mjd8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80);
+}
+#title {
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: rgb(0, 0, 0);
+	background:goldenrod;
+}
+.para-text {
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+
+}
+.subtitle {
+	color: black;
+	background: whitesmoke;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-weight: bold;
+}
+#about-us-image {
+	width: 1590px;
+	height: 800px;
+	background: goldenrod;
+}
+.paragraph-text {
+	color: honeydew;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+#service-image {
+	height: 400px;
+	width: 70%;
+
+	background: url(../img/ac68b248f3fb197fb3e65f8b54bd7d3d.jpg);
+	background-repeat: no-repeat
+}

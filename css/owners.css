@@ -1,0 +1,18 @@
+.name {
+    color: goldenrod;
+    background: black;
+}
+.image1 {
+    width: 300px;
+    height: 300px;
+    background: chocolate;
+}
+.owned1 {
+    color: chocolate;
+    background: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+#owners {
+    background: url(https://media.istockphoto.com/photos/dollar-background-picture-id1207164394);
+}
